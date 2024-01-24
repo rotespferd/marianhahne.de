@@ -1,0 +1,16 @@
+{
+    "name": "marianhahne.de/website",
+    "type": "project",
+    "license": "AGPL",
+    "autoload": {
+        "psr-4": {
+            "MarianhahneDe\\Website\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marian Hahne"
+        }
+    ],
+    "require": {}
+}
