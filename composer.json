@@ -4,12 +4,14 @@
     "license": "AGPL",
     "autoload": {
         "psr-4": {
-            "MarianhahneDe\\Website\\": "src/"
+            "Marianhahne\\Website\\": "src/",
+            "Marianhahne\\Blog\\": "lib/"
         }
     },
     "authors": [
         {
-            "name": "Marian Hahne"
+            "name": "Marian Hahne",
+            "email": "marian@marianhahne.de"
         }
     ],
     "require": {}
