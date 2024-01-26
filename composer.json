@@ -5,7 +5,7 @@
     "autoload": {
         "psr-4": {
             "Marianhahne\\Website\\": "src/",
-            "Marianhahne\\Blog\\": "lib/"
+            "Blogsberg\\": "lib/"
         }
     },
     "authors": [
