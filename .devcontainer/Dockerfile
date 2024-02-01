@@ -1,1 +1,0 @@
-FROM codeberg.org/rotespferd/devcontainer/php:8.3

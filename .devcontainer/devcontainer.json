@@ -1,4 +1,6 @@
 {
     "name": "marianhahne.de",
-    "image": "./Dockerfile"
+    "build": {
+        "dockerfile": "Dockerfile"
+    }
 }
