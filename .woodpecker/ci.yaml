@@ -1,0 +1,11 @@
+matrix:
+  PHP_VERSION:
+    - 8.2
+    - 8.3
+
+steps:
+  check:
+    image: codeberg.org/rotespferd/devcontainer/php:${PHP_VERSION}
+    commands:
+      - composer install
+      - make check
