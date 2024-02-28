@@ -1,6 +1,0 @@
-{
-    "name": "marianhahne.de",
-    "build": {
-        "dockerfile": "Dockerfile"
-    }
-}
